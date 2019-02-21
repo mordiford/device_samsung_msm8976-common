@@ -126,7 +126,6 @@ PRODUCT_PACKAGES += \
     android.hardware.graphics.mapper@2.0-impl \
     android.hardware.memtrack@1.0-impl \
     android.hardware.memtrack@1.0-service \
-    AdvancedDisplay \
     copybit.msm8952 \
     gralloc.msm8952 \
     hwcomposer.msm8952 \
